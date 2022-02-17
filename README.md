@@ -14,6 +14,10 @@
 * **程式語言** <br>
 Python
 
+* **教材** <br>
+[機器學習的統計基礎：深度學習背後的核心技術](https://www.flag.com.tw/books/product/F1319)
+![image](https://user-images.githubusercontent.com/25295252/154414691-323e68f1-e029-42a4-88ac-c53e4763a328.png)
+<br><br><br><br>
 
  |週次|上課日期|課程進度、內容、主題|授課老師|資料| 地點 |
  |:---:|:---:|:---|:---|:---|:---|
