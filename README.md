@@ -21,10 +21,10 @@ Python
 
  |週次|上課日期|課程進度、內容、主題|授課老師|資料| 地點 |
  |:---:|:---:|:---|:---|:---|:---|
- |第01週|2022/02/23 | 課程大綱及AI技術簡介| 陳彥霖教授、黃志勝博士 | [1. AI簡介和認識.pdf](https://github.com/TommyHuang821/NTUT_110-2_MTA/blob/main/ppt/1.%20AI%E7%B0%A1%E4%BB%8B%E5%92%8C%E8%AA%8D%E8%AD%98.pdf) <br>[python Module example.ipynb](https://github.com/TommyHuang821/NTUT_110-2_MTA/blob/main/code/python%20Module%20example.ipynb) | 科研235教室|
+ |第01週|2022/02/23 | 課程大綱及AI技術簡介| 陳彥霖教授、黃志勝博士 | [1. AI簡介和認識.pdf](https://github.com/TommyHuang821/NTUT_110-2_MTA/blob/main/ppt/1.%20AI%E7%B0%A1%E4%BB%8B%E5%92%8C%E8%AA%8D%E8%AD%98.pdf) <br>[- python Module example.ipynb](https://github.com/TommyHuang821/NTUT_110-2_MTA/blob/main/code/python%20Module%20example.ipynb) | 科研235教室|
  |第02週|2022/03/02 | openCV簡介+基礎影像處理技術| 陳彥霖教授  |  | 科研235教室|
  |第03週|2022/03/09 | openCV簡介+基礎影像處理技術| 陳彥霖教授  |  | 科研1222電腦教室|
- |第04週|2022/03/16 | 機器與深度學習常用的數學<br>相關機率論與統計學	| 黃志勝博士 | [Introduction for Basics.pdf](https://github.com/TommyHuang821/NTUT_110-2_MTA/blob/main/ppt/2.%20Introduction%20for%20Basics.pdf)|科研235教室|
+ |第04週|2022/03/16 | 機器與深度學習常用的數學<br>相關機率論與統計學	| 黃志勝博士 | [Introduction for Basics.pdf](https://github.com/TommyHuang821/NTUT_110-2_MTA/blob/main/ppt/2.%20Introduction%20for%20Basics.pdf)<br>[- Example_python_code](https://github.com/TommyHuang821/NTUT_110-2_MTA/blob/main/code/Introduction%20for%20Basics.ipynb)|科研235教室|
  |第05週|2022/03/23| 放假 (如當天下雨，課程繼續進行)	 |  |  |科研235教室|
  |第06週|2022/03/30 | 迴歸分析 | 黃志勝博士 |  |科研235教室|
  |第07週|2022/04/06| 放假	|  |  |科研235教室|
