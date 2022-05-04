@@ -45,8 +45,8 @@ Python
  |第07週|2022/04/06| 放假	|  |  |科研235教室|
  |第08週|2022/04/13 | 分類| 黃志勝博士 | [5. Classification](https://github.com/TommyHuang821/NTUT_110-2_MTA/blob/main/ppt/5.%20Classification.pdf) <br> [Homework: 以IRIS資料為範本(pdf檔)](https://github.com/TommyHuang821/NTUT_110-2_MTA/blob/main/HomeWork/Homework2_IRIS%E8%B3%87%E6%96%99%E5%88%86%E9%A1%9E.pdf) <br>[- data](https://github.com/TommyHuang821/NTUT_110-2_MTA/blob/main/HomeWork/iris_x.txt)<br>[- label](https://github.com/TommyHuang821/NTUT_110-2_MTA/blob/main/HomeWork/iris_y.txt)<br>[課程講述程式操作資料](https://github.com/TommyHuang821/NTUT_110-2_MTA/tree/main/code/w08_Classification%20Example%20Code)|科研235教室|
  |第09週|2022/04/20 | 期中考週 (上機測驗: 機器學習 Project) <br> 主要測試<br> 1. python opencv讀取圖片 <br> 2. Learning algorithm implementation| 黃志勝博士 |  |科研1222電腦教室|
- |第10週|2022/04/27 | 統計降維法| 黃志勝博士 | [6. k-means and PCA.pdf](https://github.com/TommyHuang821/NTUT_110-2_MTA/blob/main/ppt/6.%20k-means%20and%20PCA.pdf) <br> [- 課程所有範例程式](https://github.com/TommyHuang821/NTUT_110-2_MTA/tree/main/code/w10)|科研235教室|
- |第11週|2022/05/04 | 類神經網路| 黃志勝博士 | [7. 神經網路與損失函數.pdf](https://github.com/TommyHuang821/NTUT_110-2_MTA/blob/main/ppt/7.%20%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF%E8%88%87%E6%90%8D%E5%A4%B1%E5%87%BD%E6%95%B8.pdf) |科研235教室|
+ |第10週|2022/04/27 | 統計降維法| 黃志勝博士 | [6. k-means and PCA.pdf](https://github.com/TommyHuang821/NTUT_110-2_MTA/blob/main/ppt/6.%20k-means%20and%20PCA.pdf) <br> [- 課程範例程式](https://github.com/TommyHuang821/NTUT_110-2_MTA/tree/main/code/w10)|科研235教室|
+ |第11週|2022/05/04 | 類神經網路| 黃志勝博士 | [7. 神經網路與損失函數.pdf](https://github.com/TommyHuang821/NTUT_110-2_MTA/blob/main/ppt/7.%20%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF%E8%88%87%E6%90%8D%E5%A4%B1%E5%87%BD%E6%95%B8.pdf)<br>[- 課程範例程式](https://github.com/TommyHuang821/NTUT_110-2_MTA/tree/main/code/w11_NN)|科研235教室|
  |第12週|2022/05/11 | Gradient descent <br> 導傳遞 <br> Weight Initialization| 黃志勝博士 |  |科研235教室|
  |第13週|2022/05/18 | | 陳彥霖教授 |  |科研235教室|
  |第14週|2022/05/25 | | 陳彥霖教授 |  |科研235教室|
