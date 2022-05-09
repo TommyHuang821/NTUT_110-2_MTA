@@ -47,7 +47,7 @@ Python
  |第09週|2022/04/20 | 期中考週 (上機測驗: 機器學習 Project) <br> 主要測試<br> 1. python opencv讀取圖片 <br> 2. Learning algorithm implementation| 黃志勝博士 |  |科研1222電腦教室|
  |第10週|2022/04/27 | 統計降維法| 黃志勝博士 | [6. k-means and PCA.pdf](https://github.com/TommyHuang821/NTUT_110-2_MTA/blob/main/ppt/6.%20k-means%20and%20PCA.pdf) <br> [- 課程範例程式](https://github.com/TommyHuang821/NTUT_110-2_MTA/tree/main/code/w10)|科研235教室|
  |第11週|2022/05/04 | 類神經網路| 黃志勝博士 | [7. 神經網路與損失函數.pdf](https://github.com/TommyHuang821/NTUT_110-2_MTA/blob/main/ppt/7.%20%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF%E8%88%87%E6%90%8D%E5%A4%B1%E5%87%BD%E6%95%B8.pdf)<br>[- 課程範例程式](https://github.com/TommyHuang821/NTUT_110-2_MTA/tree/main/code/w11_NN)|科研235教室|
- |第12週|2022/05/11 | Gradient descent <br> 導傳遞 <br> Weight Initialization| 黃志勝博士 |  |科研235教室|
+ |第12週|2022/05/11 | Gradient descent <br> 導傳遞 <br> Weight Initialization| 黃志勝博士 | [8. Gradient descent, 導傳遞, weight initialization](https://github.com/TommyHuang821/NTUT_110-2_MTA/blob/main/ppt/8.%20Gradient%20descent%2C%20%E5%B0%8E%E5%82%B3%E9%81%9E%2C%20weight%20initialization.pdf) |科研235教室|
  |第13週|2022/05/18 | | 陳彥霖教授 |  |科研235教室|
  |第14週|2022/05/25 | | 陳彥霖教授 |  |科研235教室|
  |第15週|2022/06/01 | | 陳彥霖教授 |  |科研235教室|
